@@ -1,3 +1,41 @@
 h1 {
   color: blue;
 }
+
+body {
+	margin : 0px !important;
+}
+
+.top-bar {
+	height : 60px;
+	background-color : #414042;
+	position : fixed;
+}
+
+.site-sections {
+	padding-right : 15px;
+}
+
+.site-sections:hover {
+	cursor : pointer;
+}
+
+.logo {
+	vertical-align : middle;
+	padding-top : 5px;
+	padding-left : 5px;
+	cursor : pointer;
+}
+
+
+.charcoal {
+	color : #414042
+}
+
+.teal {
+	color : #2096a1
+}
+
+.silver{
+	color : #e6e7e8
+}
